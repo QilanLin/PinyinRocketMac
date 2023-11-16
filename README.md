@@ -1,4 +1,7 @@
 # PinyinRocketMac
+<h1 align="center">
+  <img src="https://github.com/qilanlin/PinyinRocketMac/blob/main/PinyinRocketMac_logo-CreatedByDALL%C2%B7E.png" width="300">
+</h1>
 
 ## 介绍
 PinyRocketMac 是一个超级轻量级、超级高效的应用程序，旨在立即消除简体中文用户在 macOS 11 及以上版本开机使用一段时间后经常遇到的鼠标一直转彩虹圈圈 (wait cursor)、系统响应极缓慢等问题。该问题很可能是由 macOS 自带的简体拼音输入法引发的。
