@@ -4,12 +4,12 @@
 </h1>
 
 ## 介绍
-PinyRocketMac 是一个超级轻量级、超级高效的应用程序，旨在立即消除简体中文用户在 macOS 11 及以上版本开机使用一段时间后经常遇到的鼠标一直转彩虹圈圈 (wait cursor)、系统响应极缓慢等问题。该问题很可能是由 macOS 自带的简体拼音输入法引发的。
+PinyinRocketMac 是一个超级轻量级、超级高效的应用程序，旨在立即消除简体中文用户在 macOS 11 及以上版本开机使用一段时间后经常遇到的鼠标一直转彩虹圈圈 (wait cursor)、系统响应极缓慢等问题。该问题很可能是由 macOS 自带的简体拼音输入法引发的。
 
 只需一键点击应用图标，即能立刻恢复性能，这样就不用耗时间重启了。在这种卡机的情况下想去切换至不同窗口/ app 以在重启前进行保存数据等必要的操作都难，在菜单里选择重启选项还要按几次鼠标，每次按完都要等它极慢的响应。
 
 ## 特点 & 使用方式
-- **超级简单的操作：** 只需在触控版上五指捏合，或打开启动台 (Launchpad)，找到此 app 的 logo，点下去，一秒钟就解决这个系统非常慢的问题了。
+- **超级简单的操作：** 只需在触控板上五指捏合，或打开启动台 (Launchpad)，找到此 app 的 logo，点下去，一秒钟就解决这个系统非常慢的问题了。
 - **超级轻量级：** 此 app 大小仅有几 MB，无需任何隐私权限，无需在后台持续运行占用额外内存；不用事先启动，用毕自动退出。
 
 ## 安装
@@ -23,7 +23,7 @@ PinyinRocketMac is an ultra-lightweight and highly efficient application designe
 With just a single click on the app's icon, you can instantly restore performance, saving you the time and hassle of having to reboot. When the system is lagging, it becomes difficult to switch to different windows/apps to save data or perform other necessary operations before rebooting. Even selecting the restart option from the menu requires several slow mouse clicks.
 
 ## Features & Usage
-- **Super Simple Operation:** Simply pinch with five fingers on the touchpad, or open the Launchpad, find the logo of this app, and click it. In just one second, the problem of the system being extremely slow is solved.
+- **Super Simple Operation:** Simply pinch with five fingers on the trackpad, or open the Launchpad, find the logo of this app, and click it. In just one second, the problem of the system being extremely slow is solved.
 - **Super Lightweight:** The app is only a few MB in size, requires no privacy permissions, and does not need to run continuously in the background, consuming extra memory; it does not need to be launched in advance and exits automatically after use.
 
 ## Installation
